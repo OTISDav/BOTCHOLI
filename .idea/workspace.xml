@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adece93e-0288-486f-9052-8d94c5a94f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/thesis_project/documents/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thesis_project/documents/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thesis_project/notifications/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thesis_project/notifications/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thesis_project" beforeDir="false" afterPath="$PROJECT_DIR$/thesis_project" afterDir="false" />
-    </list>
+    <list default="true" id="adece93e-0288-486f-9052-8d94c5a94f36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "<unknown>"
   }
 }]]></component>
   <component name="SharedIndexes">
